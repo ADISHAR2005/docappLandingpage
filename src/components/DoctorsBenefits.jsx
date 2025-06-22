@@ -3,7 +3,7 @@ import benefitsData from '../data/doctorsBenefits.json'; // adjust the path
 
 const DoctorsBenefits = () => {
   return (
-    <section className="py-10 px-4 text-center text-white bg-[#0d0f23]">
+    <section>
       <h2 className="text-4xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-500">
         How Doctors Benefit
       </h2>

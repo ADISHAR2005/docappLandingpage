@@ -1,4 +1,3 @@
-
 import DoctorsBenefits from './components/DoctorsBenefits';
 import Footer from './components/Footer';
 import ForPatients from './components/ForPatients';
@@ -11,7 +10,7 @@ import Testimonials from './pages/Testimonials';
 
 const App = () => {
   return (
-    <>
+    <div className='main-div'>
       <Navbar />
 
       <main>
@@ -45,7 +44,7 @@ const App = () => {
       </main>
 
       <Footer />
-    </>
+    </div>
   );
 };
 
