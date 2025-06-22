@@ -12,7 +12,9 @@ const ThemeToggle = () => {
   }, []);
 
   const toggleTheme = () => {
+    
     setIsDark(prev => {
+      console.log('toogling to dark is:',!prev)
       const newIsDark = !prev;
       document.documentElement.classList.toggle('dark', newIsDark);
       return newIsDark;
