@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "👥",
+    "title": "Free Onboarding",
+    "badge": "₹0 Setup Cost",
+    "description": "No subscription fees - join our platform completely free"
+  },
+  {
+    "icon": "💰",
+    "title": "Keep 90% Commission",
+    "badge": "90% Earnings",
+    "description": "Industry-best commission rates with transparent pricing"
+  },
+  {
+    "icon": "🧑‍⚕️",
+    "title": "More Patients",
+    "badge": "3x More Patients",
+    "description": "AI-powered patient matching to increase your consultation volume"
+  },
+  {
+    "icon": "🌐",
+    "title": "Multilingual Reach",
+    "badge": "15+ Languages",
+    "description": "Serve patients in their preferred language for better communication"
+  },
+  {
+    "icon": "📊",
+    "title": "Doctor Dashboard",
+    "badge": "All-in-One",
+    "description": "Comprehensive dashboard to manage your consultations and earnings"
+  },
+  {
+    "icon": "💳",
+    "title": "Fast Payouts",
+    "badge": "24-Hour Payout",
+    "description": "Receive your earnings quickly with fast and secure payouts"
+  }
+]

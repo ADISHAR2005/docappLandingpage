@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Dr. Sarah Johnson",
+    "role": "Chief Executive Officer",
+    "bio": "Leading healthcare innovation with 20+ years of medical and technology experience.",
+    "image": "sarah-johnson.jpg",
+    "linkedin": "#",
+    "twitter": "#",
+    "email": "#"
+  },
+  {
+    "name": "Michael Chen",
+    "role": "Chief Technology Officer",
+    "bio": "Former Silicon Valley engineer passionate about transforming healthcare through technology.",
+    "image": "michael-chen.jpg",
+    "linkedin": "#",
+    "twitter": "#",
+    "email": "#"
+  },
+  {
+    "name": "Dr. Emily Rodriguez",
+    "role": "Chief Medical Officer",
+    "bio": "Board-certified physician ensuring our solutions meet real-world clinical needs.",
+    "image": "emily-rodriguez.jpg",
+    "linkedin": "#",
+    "twitter": "#",
+    "email": "#"
+  }
+]
