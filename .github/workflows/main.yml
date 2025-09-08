@@ -15,3 +15,10 @@ jobs:
         node-version: 18
     - run: npm install
     - run: npm run build
+
+
+    - name: Trigger deploy workflow
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-deploy
